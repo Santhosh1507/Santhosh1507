@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 👨‍💻 All of my projects are available at [https://santhosh-portfolio-web.netlify.app/](https://santhosh-portfolio-web.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://santhosh-my-new-portfolio.netlify.app/](https://santhosh-my-new-portfolio.netlify.app/)
 
 - 💬 Ask me about **react, node js, mongodb**
 
