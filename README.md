@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh1507&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh1507" /> </p>
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **full stack development, Software developer, data analyst, Data Science, Backend Development, Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://santhosh-my-new-portfolio.netlify.app/](https://santhosh-my-new-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://santhosh-my-new-portfolio.netlify.app/)
 
-- 💬 Ask me about **react, node js, mongodb**
+- 💬 Ask me about **react, node js, mongodb, express js, postgresql, mysql, Html, CSS, javascript, Django, Firebase, Python, Visual Studio Code, TailwindCSS, Networking, SQL Server, FastAPI**
 
 - 📫 How to reach me **santhosh.mce1234@gmail.com**
 
