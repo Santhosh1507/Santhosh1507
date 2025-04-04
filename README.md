@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar D</h1>
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 ![alt text](<image/2.png>)
 
